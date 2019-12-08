@@ -1,0 +1,3 @@
+/home/avelman/CLionProjects/CENG313-HW1-240201036/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/avelman/CLionProjects/CENG313-HW1-240201036/cmake-build-debug/CMakeFiles/untitled.dir
+/home/avelman/CLionProjects/CENG313-HW1-240201036/cmake-build-debug/CMakeFiles/edit_cache.dir

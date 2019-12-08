@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/avelman/CLionProjects/CENG313-HW1-240201036/IStringProcess.h
+
+/home/avelman/CLionProjects/CENG313-HW1-240201036/IVigenereCipher.h
+
+/home/avelman/CLionProjects/CENG313-HW1-240201036/StringProcess.c
+
+/home/avelman/CLionProjects/CENG313-HW1-240201036/VigenereCipher.c
+string.h
+-
+stdio.h
+-
+IStringProcess.h
+/home/avelman/CLionProjects/CENG313-HW1-240201036/IStringProcess.h
+IVigenereCipher.h
+/home/avelman/CLionProjects/CENG313-HW1-240201036/IVigenereCipher.h
+
+/home/avelman/CLionProjects/CENG313-HW1-240201036/main.c
+stdio.h
+-
+string.h
+-
+IVigenereCipher.h
+/home/avelman/CLionProjects/CENG313-HW1-240201036/IVigenereCipher.h
+IStringProcess.h
+/home/avelman/CLionProjects/CENG313-HW1-240201036/IStringProcess.h
+
